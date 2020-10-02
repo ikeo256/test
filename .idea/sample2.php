@@ -1,7 +1,7 @@
 <?php
 
 
-$a = "hoge１";
+$a = "hoge12";
 $a = "hogehoge";
 
 echo "$a";
